@@ -3,6 +3,10 @@
 
 👨 Welcome to my world !! My fullname is Nguyen Phuc Thinh and I'm a sophomore studying Software Engineer at SGU (Sai Gon University). I'm twenty years old and from Vietnam. My goal is to become a full-stack developer
 
+## 📈 Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=kidp2h&theme=dracula&show_icons=true&count_private=true"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidp2h&theme=dracula&layout=compact&langs_count=10">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kidp2h&theme=dracula">
+
 ## Frameworks and Libraries Front-end
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"> <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white"> <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"> <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
 
@@ -21,9 +25,6 @@
 ## OS
 <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"> <img src="https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white"> <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
-## 📈 Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=kidp2h&theme=dracula&show_icons=true&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidp2h&theme=dracula&layout=compact&langs_count=10">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kidp2h&theme=dracula">
+
 
 
