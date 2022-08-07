@@ -4,8 +4,8 @@
 👨 Welcome to my world !! My fullname is Nguyen Phuc Thinh and I'm a sophomore studying Software Engineer at SGU (Sai Gon University). I'm twenty years old and from Vietnam. My goal is to become a full-stack developer
 
 ## 📈 Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=kidp2h&theme=dracula&show_icons=true&count_private=true"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidp2h&theme=dracula&layout=compact&langs_count=10">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kidp2h&theme=dracula">
+<img src="https://github-readme-stats.vercel.app/api?username=kidp2h&theme=dracula&show_icons=true&count_private=true"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kidp2h&theme=dracula"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidp2h&theme=dracula&layout=compact&langs_count=10">
+
 
 ## Frameworks and Libraries Front-end
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"> <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white"> <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"> <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
