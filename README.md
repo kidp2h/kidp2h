@@ -1,4 +1,4 @@
-# Hi, I’m KidP2H!  <img src="https://emoji.gg/assets/emoji/5586-pepe-2.png" width="64px" height="64px" alt="Pepe_2">
+# Hi, I’m Nguyen Phuc Thinh!
 <a href=https://www.linkedin.com/in/nguy%E1%BB%85n-th%E1%BB%8Bnh-04a7b61b0//> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=0896359374&color=blue"> <a href=https://facebook.com/0x4B6/> <img src="https://img.shields.io/badge/-Facebook-0e76a8?style=plastic&logo=facebook"> </a>
 
 👨 Welcome to my world !! My fullname is Nguyen Phuc Thinh and I'm a sophomore studying Software Engineer at SGU (Sai Gon University). I'm twenty years old and from Vietnam. My goal is to become a full-stack developer
