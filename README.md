@@ -12,6 +12,11 @@ I enjoy working across the full stack, from crafting responsive UIs to designing
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,java,spring,php,laravel,mysql,postgres,docker,nginx,git)](https://skillicons.dev)
 
+## Hackathon joined
+### 1st VBI - SGU BLOCKCHAIN HACKATHON
+![Blockchain Certificate](cert_blockchain.jpg)
+[View announcement](https://fit.sgu.edu.vn/site/thong-bao-buoi-giao-luu-va-trao-giai-cuoc-thi-hackathon-voi-chu-de-vietnam-blockchain-summer-school-2023/)
+
 ## Certificate
 [![Frontend Developer (React)](https://img.shields.io/badge/Frontend_Developer_(React)-Certificate-brightgreen)](https://www.hackerrank.com/certificates/071294146e1a)
 [![Software Engineer](https://img.shields.io/badge/Software_Engineer-Certificate-brightgreen)](https://www.hackerrank.com/certificates/iframe/b4b77e368eb4)
